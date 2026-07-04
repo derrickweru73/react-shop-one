@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
+import ProductsList from "../components/ProductsList";
 
 const Home = () => {
   return (
@@ -65,6 +66,11 @@ const Home = () => {
             </p>
           </div>
         </div>
+      </section>
+
+      {/* Products Section */}
+      <section className="container mx-auto px-6 py-16">
+        <ProductsList />
       </section>
 
       {/* Call to Action */}
