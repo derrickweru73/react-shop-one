@@ -1,8 +1,25 @@
+import { useContext } from "react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { CartContext } from "@/context/CartContext";
 import { Link } from "react-router-dom";
 
 function ProductCard({ id, name, price, description, category, image }) {
+  const { cart, setCart } = useContext(CartContext);
+
+  const handleAddToCart = () => {
+    const productPayload = {
+      id,
+      name,
+      price,
+      image,
+      description,
+      category,
+    };
+
+    setCart([...cart, productPayload]);
+  };
+
   return (
     <Card className="overflow-hidden hover:shadow-lg transition-shadow duration-300">
       <CardHeader>
@@ -34,7 +51,7 @@ function ProductCard({ id, name, price, description, category, image }) {
           </p>
         </div>
 
-        <Button className="w-full">
+        <Button onClick={handleAddToCart} className="w-full">
           Add to Cart
         </Button>
       </CardContent>
