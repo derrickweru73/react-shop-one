@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Apple MacBook Air M3",
+    "price": 1299.99,
+    "category": "Laptops",
+    "description": "Lightweight laptop with the powerful Apple M3 chip and all-day battery life.",
+    "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?w=500"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S25",
+    "price": 999.99,
+    "category": "Smartphones",
+    "description": "Flagship Android smartphone with an advanced AI camera system.",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500"
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 349.99,
+    "category": "Audio",
+    "description": "Industry-leading noise-cancelling wireless headphones.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500"
+  },
+  {
+    "id": 4,
+    "name": "Apple Watch Series 10",
+    "price": 449.99,
+    "category": "Wearables",
+    "description": "Track your fitness, heart rate, and daily activities with ease.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500"
+  },
+  {
+    "id": 5,
+    "name": "Dell UltraSharp Monitor",
+    "price": 399.99,
+    "category": "Monitors",
+    "description": "27-inch 4K monitor designed for creators and professionals.",
+    "image": "https://images.unsplash.com/photo-1527443154391-507e9dc6c5cc?w=500"
+  },
+  {
+    "id": 6,
+    "name": "Mechanical RGB Keyboard",
+    "price": 119.99,
+    "category": "Accessories",
+    "description": "Mechanical keyboard with customizable RGB lighting.",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500"
+  },
+  {
+    "id": 7,
+    "name": "Logitech MX Master 3S",
+    "price": 99.99,
+    "category": "Accessories",
+    "description": "Premium wireless mouse for productivity and creative work.",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500"
+  },
+  {
+    "id": 8,
+    "name": "Nike Air Max Sneakers",
+    "price": 149.99,
+    "category": "Footwear",
+    "description": "Comfortable everyday sneakers with responsive cushioning.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500"
+  },
+  {
+    "id": 9,
+    "name": "Adidas Sports Hoodie",
+    "price": 69.99,
+    "category": "Clothing",
+    "description": "Soft fleece hoodie perfect for workouts and casual wear.",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500"
+  },
+  {
+    "id": 10,
+    "name": "Travel Backpack",
+    "price": 79.99,
+    "category": "Bags",
+    "description": "Water-resistant backpack with a dedicated laptop compartment.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500"
+  },
+  {
+    "id": 11,
+    "name": "Instant Coffee Maker",
+    "price": 89.99,
+    "category": "Kitchen",
+    "description": "Compact coffee maker for rich, delicious coffee in minutes.",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=500"
+  },
+  {
+    "id": 12,
+    "name": "Smart LED Desk Lamp",
+    "price": 49.99,
+    "category": "Home",
+    "description": "Adjustable brightness with touch controls and USB charging.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500"
+  },
+  {
+    "id": 13,
+    "name": "Gaming Chair",
+    "price": 259.99,
+    "category": "Furniture",
+    "description": "Ergonomic gaming chair with adjustable lumbar support.",
+    "image": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?w=500"
+  },
+  {
+    "id": 14,
+    "name": "Wireless Charger",
+    "price": 39.99,
+    "category": "Electronics",
+    "description": "Fast wireless charging pad compatible with Qi-enabled devices.",
+    "image": "https://images.unsplash.com/photo-1587033411391-5d9e51cce126?w=500"
+  },
+  {
+    "id": 15,
+    "name": "Canon EOS Camera",
+    "price": 899.99,
+    "category": "Photography",
+    "description": "Capture stunning photos and videos with professional quality.",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500"
+  },
+  {
+    "id": 16,
+    "name": "Bluetooth Portable Speaker",
+    "price": 59.99,
+    "category": "Audio",
+    "description": "Portable waterproof speaker with powerful sound.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbbc22754?w=500"
+  },
+  {
+    "id": 17,
+    "name": "Fitness Yoga Mat",
+    "price": 34.99,
+    "category": "Fitness",
+    "description": "Eco-friendly non-slip yoga mat for home workouts.",
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=500"
+  },
+  {
+    "id": 18,
+    "name": "Polarized Sunglasses",
+    "price": 89.99,
+    "category": "Accessories",
+    "description": "Stylish sunglasses with UV400 eye protection.",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500"
+  },
+  {
+    "id": 19,
+    "name": "Leather Office Notebook",
+    "price": 24.99,
+    "category": "Office",
+    "description": "Premium refillable notebook for work and study.",
+    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=500"
+  },
+  {
+    "id": 20,
+    "name": "Hydro Flask Water Bottle",
+    "price": 44.99,
+    "category": "Lifestyle",
+    "description": "Double-wall insulated bottle that keeps drinks cold for 24 hours.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500"
+  }
+]
