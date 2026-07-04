@@ -1,8 +1,14 @@
+import { useContext } from "react";
 import { NavLink } from "react-router-dom";
 import { ShoppingCart, RefreshCw } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { CartContext } from "@/context/CartContext";
 
 const Navbar = () => {
+  const { cart } = useContext(CartContext);
+
+  const cartItemCount = cart.length;
+
   return (
     <nav className="w-full border-b bg-white shadow-sm">
       <div className="flex items-center justify-between w-full px-10 py-4">
@@ -59,9 +65,15 @@ const Navbar = () => {
 
           <NavLink
             to="/cart"
-            className="text-slate-700 hover:text-indigo-600 transition-colors"
+            className="relative text-slate-700 hover:text-indigo-600 transition-colors"
           >
             <ShoppingCart className="h-6 w-6" />
+
+            {cartItemCount > 0 && (
+              <span className="absolute -top-2 -right-2 bg-red-600 text-white text-xs rounded-full h-5 w-5 flex items-center justify-center">
+                {cartItemCount}
+              </span>
+            )}
           </NavLink>
 
           <NavLink
@@ -72,7 +84,9 @@ const Navbar = () => {
           </NavLink>
 
           <NavLink to="/register">
-            <Button className="px-6 py-5">Register</Button>
+            <Button className="px-6 py-5">
+              Register
+            </Button>
           </NavLink>
         </div>
       </div>
