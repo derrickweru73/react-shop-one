@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import ProductsList from "../components/ProductsList";
-
+import ProductsList from "@/components/ui/ProductsList";
 const Home = () => {
   return (
     <main>
