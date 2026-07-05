@@ -1,162 +1,162 @@
 [
   {
     "id": 1,
-    "name": "Apple MacBook Air M3",
-    "price": 1299.99,
-    "category": "Laptops",
-    "description": "Lightweight laptop with the powerful Apple M3 chip and all-day battery life.",
-    "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?w=500"
+    "name": "Canon EOS R50 Camera",
+    "price": 89999,
+    "category": "Photography",
+    "description": "Mirrorless camera with 4K video and advanced autofocus.",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600"
   },
   {
     "id": 2,
-    "name": "Samsung Galaxy S25",
-    "price": 999.99,
-    "category": "Smartphones",
-    "description": "Flagship Android smartphone with an advanced AI camera system.",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500"
+    "name": "DJI Mini 4 Drone",
+    "price": 125000,
+    "category": "Drones",
+    "description": "Compact drone with intelligent flight modes and 4K HDR camera.",
+    "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=600"
   },
   {
     "id": 3,
-    "name": "Sony WH-1000XM5 Headphones",
-    "price": 349.99,
-    "category": "Audio",
-    "description": "Industry-leading noise-cancelling wireless headphones.",
-    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500"
+    "name": "Camping Tent",
+    "price": 18500,
+    "category": "Outdoor",
+    "description": "Four-person waterproof tent for camping adventures.",
+    "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=600"
   },
   {
     "id": 4,
-    "name": "Apple Watch Series 10",
-    "price": 449.99,
-    "category": "Wearables",
-    "description": "Track your fitness, heart rate, and daily activities with ease.",
-    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500"
+    "name": "Hiking Backpack",
+    "price": 7200,
+    "category": "Outdoor",
+    "description": "60L travel backpack with rain cover.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600"
   },
   {
     "id": 5,
-    "name": "Dell UltraSharp Monitor",
-    "price": 399.99,
-    "category": "Monitors",
-    "description": "27-inch 4K monitor designed for creators and professionals.",
-    "image": "https://images.unsplash.com/photo-1527443154391-507e9dc6c5cc?w=500"
+    "name": "Espresso Coffee Machine",
+    "price": 32999,
+    "category": "Kitchen",
+    "description": "Brew café-quality espresso from home.",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600"
   },
   {
     "id": 6,
-    "name": "Mechanical RGB Keyboard",
-    "price": 119.99,
-    "category": "Accessories",
-    "description": "Mechanical keyboard with customizable RGB lighting.",
-    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500"
+    "name": "Digital Air Fryer",
+    "price": 14999,
+    "category": "Kitchen",
+    "description": "Healthy cooking with rapid hot-air technology.",
+    "image": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?w=600"
   },
   {
     "id": 7,
-    "name": "Logitech MX Master 3S",
-    "price": 99.99,
-    "category": "Accessories",
-    "description": "Premium wireless mouse for productivity and creative work.",
-    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500"
+    "name": "Electric Guitar",
+    "price": 45999,
+    "category": "Music",
+    "description": "Professional electric guitar with premium finish.",
+    "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=600"
   },
   {
     "id": 8,
-    "name": "Nike Air Max Sneakers",
-    "price": 149.99,
-    "category": "Footwear",
-    "description": "Comfortable everyday sneakers with responsive cushioning.",
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500"
+    "name": "Digital Piano",
+    "price": 68999,
+    "category": "Music",
+    "description": "88-key weighted keyboard with realistic sound.",
+    "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=600"
   },
   {
     "id": 9,
-    "name": "Adidas Sports Hoodie",
-    "price": 69.99,
-    "category": "Clothing",
-    "description": "Soft fleece hoodie perfect for workouts and casual wear.",
-    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500"
+    "name": "Ergonomic Office Chair",
+    "price": 23999,
+    "category": "Furniture",
+    "description": "Adjustable office chair with lumbar support.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=600"
   },
   {
     "id": 10,
-    "name": "Travel Backpack",
-    "price": 79.99,
-    "category": "Bags",
-    "description": "Water-resistant backpack with a dedicated laptop compartment.",
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500"
+    "name": "Standing Desk",
+    "price": 37999,
+    "category": "Furniture",
+    "description": "Height-adjustable electric office desk.",
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600"
   },
   {
     "id": 11,
-    "name": "Instant Coffee Maker",
-    "price": 89.99,
-    "category": "Kitchen",
-    "description": "Compact coffee maker for rich, delicious coffee in minutes.",
-    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=500"
+    "name": "PlayStation 5 Console",
+    "price": 89999,
+    "category": "Gaming",
+    "description": "Next-generation gaming console with ultra-fast SSD.",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=600"
   },
   {
     "id": 12,
-    "name": "Smart LED Desk Lamp",
-    "price": 49.99,
-    "category": "Home",
-    "description": "Adjustable brightness with touch controls and USB charging.",
-    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500"
+    "name": "VR Headset",
+    "price": 59999,
+    "category": "Gaming",
+    "description": "Immersive virtual reality gaming headset.",
+    "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=600"
   },
   {
     "id": 13,
-    "name": "Gaming Chair",
-    "price": 259.99,
-    "category": "Furniture",
-    "description": "Ergonomic gaming chair with adjustable lumbar support.",
-    "image": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?w=500"
+    "name": "Mountain Bicycle",
+    "price": 54999,
+    "category": "Sports",
+    "description": "Durable mountain bike built for rough terrain.",
+    "image": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?w=600"
   },
   {
     "id": 14,
-    "name": "Wireless Charger",
-    "price": 39.99,
-    "category": "Electronics",
-    "description": "Fast wireless charging pad compatible with Qi-enabled devices.",
-    "image": "https://images.unsplash.com/photo-1587033411391-5d9e51cce126?w=500"
+    "name": "Yoga Mat",
+    "price": 2999,
+    "category": "Fitness",
+    "description": "Eco-friendly anti-slip yoga mat.",
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=600"
   },
   {
     "id": 15,
-    "name": "Canon EOS Camera",
-    "price": 899.99,
-    "category": "Photography",
-    "description": "Capture stunning photos and videos with professional quality.",
-    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500"
+    "name": "Adjustable Dumbbells",
+    "price": 18999,
+    "category": "Fitness",
+    "description": "Space-saving adjustable dumbbell set.",
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600"
   },
   {
     "id": 16,
-    "name": "Bluetooth Portable Speaker",
-    "price": 59.99,
-    "category": "Audio",
-    "description": "Portable waterproof speaker with powerful sound.",
-    "image": "https://images.unsplash.com/photo-1608043152269-423dbbc22754?w=500"
+    "name": "Robot Vacuum Cleaner",
+    "price": 42999,
+    "category": "Home Appliances",
+    "description": "Smart robot vacuum with automatic mapping.",
+    "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=600"
   },
   {
     "id": 17,
-    "name": "Fitness Yoga Mat",
-    "price": 34.99,
-    "category": "Fitness",
-    "description": "Eco-friendly non-slip yoga mat for home workouts.",
-    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=500"
+    "name": "Portable Projector",
+    "price": 28999,
+    "category": "Electronics",
+    "description": "Mini HD projector for home entertainment.",
+    "image": "https://images.unsplash.com/photo-1528395874238-34ebe249b3f2?w=600"
   },
   {
     "id": 18,
-    "name": "Polarized Sunglasses",
-    "price": 89.99,
-    "category": "Accessories",
-    "description": "Stylish sunglasses with UV400 eye protection.",
-    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500"
+    "name": "Smart Door Lock",
+    "price": 21999,
+    "category": "Smart Home",
+    "description": "Fingerprint-enabled smart security lock.",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=600"
   },
   {
     "id": 19,
-    "name": "Leather Office Notebook",
-    "price": 24.99,
-    "category": "Office",
-    "description": "Premium refillable notebook for work and study.",
-    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=500"
+    "name": "Portable Solar Panel",
+    "price": 27999,
+    "category": "Energy",
+    "description": "Foldable solar panel for camping and travel.",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600"
   },
   {
     "id": 20,
-    "name": "Hydro Flask Water Bottle",
-    "price": 44.99,
-    "category": "Lifestyle",
-    "description": "Double-wall insulated bottle that keeps drinks cold for 24 hours.",
-    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500"
+    "name": "Telescope",
+    "price": 35999,
+    "category": "Science",
+    "description": "High-powered telescope for astronomy enthusiasts.",
+    "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600"
   }
 ]
