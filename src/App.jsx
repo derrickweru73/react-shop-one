@@ -8,6 +8,7 @@ import Checkout from "./pages/Checkout";
 import CheckoutSuccess from "./pages/CheckoutSuccess";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
+import ProtectedRoute from "./components/ui/ProtectedRoute";
 function App() {
   return (
     <>
@@ -17,11 +18,15 @@ function App() {
 
           <Route path="/" element={<Home />} />
           <Route path="/cart" element={<Cart />} />
-          <Route path="/checkout" element={<Checkout />} />
+          {/* <Route path="/checkout" element={<Checkout />} /> */}
           <Route path="/checkoutsuccess" element={<CheckoutSuccess />} />
           <Route path="/product/:productId" element={<ProductDetails />} />
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
+          <Route path="/checkout" element={
+            <ProtectedRoute>
+              <Checkout/>
+            </ProtectedRoute>} />
 
 
         </Routes>
