@@ -48,14 +48,11 @@ function Login() {
       const fakeToken = "jwt-access-token-example";
 
       const fakeUser = {
-        id: Date.now(),
-        name: formData.email.split("@")[0],
+        id: "u-secure-1",
         email: formData.email,
-        role:
-          formData.email === "admin@reactshop.com"
-            ? "admin"
-            : "customer",
-      };
+        name: formData.email.split("@")[0],
+        role: formData.email === "admin@example.com" ? "admin" : "user",
+       };
 
       login(fakeToken, fakeUser);
 

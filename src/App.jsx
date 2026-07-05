@@ -9,6 +9,7 @@ import CheckoutSuccess from "./pages/CheckoutSuccess";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import ProtectedRoute from "./components/ui/ProtectedRoute";
+import AdminDashboard from "./pages/AdminDashboard";
 function App() {
   return (
     <>
@@ -26,6 +27,10 @@ function App() {
           <Route path="/checkout" element={
             <ProtectedRoute>
               <Checkout/>
+            </ProtectedRoute>} />
+          <Route path="/admin" element={
+            <ProtectedRoute adminOnly>
+              <AdminDashboard/>
             </ProtectedRoute>} />
 
 
