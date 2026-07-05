@@ -4,13 +4,13 @@ import { ShoppingCart, Moon, User, LogOut } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { CartContext } from "@/context/CartContext";
 import { useAuth } from "@/context/AuthContext";
-
+ 
 const Navbar = () => {
   const { cart } = useContext(CartContext);
   const { user, isAuthenticated, logout } = useAuth();
 
   const cartItemCount = cart?.length || 0;
-
+ 
   return (
     <nav className="sticky top-0 z-50 w-full border-b bg-white/95 backdrop-blur shadow-sm">
       <div className="max-w-7xl mx-auto flex items-center justify-between px-4 py-3">
